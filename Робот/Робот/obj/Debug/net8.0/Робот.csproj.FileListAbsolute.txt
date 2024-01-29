@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\проекты программирование\Робот\Робот\bin\Debug\net8.0\Робот.exe
+C:\Users\User\Desktop\проекты программирование\Робот\Робот\bin\Debug\net8.0\Робот.deps.json
+C:\Users\User\Desktop\проекты программирование\Робот\Робот\bin\Debug\net8.0\Робот.runtimeconfig.json
+C:\Users\User\Desktop\проекты программирование\Робот\Робот\bin\Debug\net8.0\Робот.dll
+C:\Users\User\Desktop\проекты программирование\Робот\Робот\bin\Debug\net8.0\Робот.pdb
+C:\Users\User\Desktop\проекты программирование\Робот\Робот\obj\Debug\net8.0\Робот.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\проекты программирование\Робот\Робот\obj\Debug\net8.0\Робот.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\проекты программирование\Робот\Робот\obj\Debug\net8.0\Робот.AssemblyInfo.cs
+C:\Users\User\Desktop\проекты программирование\Робот\Робот\obj\Debug\net8.0\Робот.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\проекты программирование\Робот\Робот\obj\Debug\net8.0\Робот.dll
+C:\Users\User\Desktop\проекты программирование\Робот\Робот\obj\Debug\net8.0\refint\Робот.dll
+C:\Users\User\Desktop\проекты программирование\Робот\Робот\obj\Debug\net8.0\Робот.pdb
+C:\Users\User\Desktop\проекты программирование\Робот\Робот\obj\Debug\net8.0\Робот.genruntimeconfig.cache
+C:\Users\User\Desktop\проекты программирование\Робот\Робот\obj\Debug\net8.0\ref\Робот.dll
